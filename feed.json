@@ -6,5 +6,167 @@
 	"feed_url": "https://notes.gazshaw.co.uk/feed.json",
 	"items": [
 		
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/22/one-of-the.html",
+				
+				"content_html": "<p>One of the handy features of Twitter, Facebook et al when they were in their pomp was finding out what’s happening right now on a particular search term, particularly in a local or hyperlocal context. That’s gone now and I miss it.</p>\n",
+				"content_text": "One of the handy features of Twitter, Facebook et al when they were in their pomp was finding out what’s happening right now on a particular search term, particularly in a local or hyperlocal context. That’s gone now and I miss it. \n",
+				"date_published": "2023-08-22T09:44:19+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/22/one-of-the.html",
+				"tags": ["Social Media","Places"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/17/the-real-kananga.html",
+				"title": "The real Kananga",
+				"content_html": "<p>The stunt in <em>Live and Let Die</em> where James Bond clears a crocodile-infested lake by using said crocodiles as stepping stones was done by Ross Kananga. It took this crocodile farm owner three failed attempts before the good 4th take. Remarkable, particularly when you consider Kananga father’s was killed by one of those crocodiles. Surely Kananga’s name was taken for the villain’s Mr Big a.k.a Dr Kananga. (Via <a href=\"https://twitter.com/ATRightMovies/status/1691902651620012039\">All the Right Movies</a>) \n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/bb1c1aMcFAo\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n</p>\n",
+				"content_text": "The stunt in *Live and Let Die* where James Bond clears a crocodile-infested lake by using said crocodiles as stepping stones was done by Ross Kananga. It took this crocodile farm owner three failed attempts before the good 4th take. Remarkable, particularly when you consider Kananga father’s was killed by one of those crocodiles. Surely Kananga’s name was taken for the villain’s Mr Big a.k.a Dr Kananga. (Via [All the Right Movies](https://twitter.com/ATRightMovies/status/1691902651620012039)) {{< youtube bb1c1aMcFAo >}}\n",
+				"date_published": "2023-08-17T11:31:24+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/17/the-real-kananga.html",
+				"tags": ["Films"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/16/raleigh-vektar.html",
+				"title": "Raleigh Vektar",
+				"content_html": "<p><em>Retro Electro Workshop</em> is like <em>The Repair Shop</em> solely for nostalgic tech nerds but with the sentimentality dialed down. I recorded one episode because I found out serendipitously that it covered the repair of a Commodore 64 and a Spectrum 48k. But what the episode also covered was an old <a href=\"https://bmxmuseum.com/bikes/raleigh/38402\">Raleigh Vektar</a>, a BMX bike with digital displays, a speedometer and a radio; something I had completely forgotten about from my childhood. I never had one but someone from school did, and for a brief period it was a wonderful thing. The closest a kid could get to becoming Street Hawk.</p>\n",
+				"content_text": "*Retro Electro Workshop* is like *The Repair Shop* solely for nostalgic tech nerds but with the sentimentality dialed down. I recorded one episode because I found out serendipitously that it covered the repair of a Commodore 64 and a Spectrum 48k. But what the episode also covered was an old [Raleigh Vektar](https://bmxmuseum.com/bikes/raleigh/38402), a BMX bike with digital displays, a speedometer and a radio; something I had completely forgotten about from my childhood. I never had one but someone from school did, and for a brief period it was a wonderful thing. The closest a kid could get to becoming Street Hawk.\n",
+				"date_published": "2023-08-16T22:55:03+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/16/raleigh-vektar.html",
+				"tags": ["Television","Transport"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/16/were-halfway-through.html",
+				
+				"content_html": "<p>We’re halfway through the second series of <em>The Bear</em>. Not quite as chaotic as the first but it has its fair share of chaos. It’s the little moments and the details in this one. The episode in Copenhagen was lovely.</p>\n",
+				"content_text": "We’re halfway through the second series of *The Bear*. Not quite as chaotic as the first but it has its fair share of chaos. It’s the little moments and the details in this one. The episode in Copenhagen was lovely.\n",
+				"date_published": "2023-08-16T22:40:43+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/16/were-halfway-through.html",
+				"tags": ["Television"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/16/oh-and-those.html",
+				
+				"content_html": "<p>Oh and <a href=\"https://notes.gazshaw.co.uk/2023/08/16/zermatt-switzerland-does.html\">those toy-like cars</a> in Zermatt are all handmade and cost the equivalent of £125,000, but have a service life of 30–50 years!</p>\n",
+				"content_text": "Oh and [those toy-like cars](https://notes.gazshaw.co.uk/2023/08/16/zermatt-switzerland-does.html) in Zermatt are all handmade and cost the equivalent of £125,000, but have a service life of 30–50 years!\n",
+				"date_published": "2023-08-16T15:38:51+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/16/oh-and-those.html",
+				"tags": ["Transport","Places"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/16/zermatt-switzerland-does.html",
+				
+				"content_html": "<p>Zermatt, Switzerland <a href=\"https://www.youtube.com/watch?v=R2oD1ZHNMFE\">does not allow private vehicles</a>. You can catch the train in from the next town or walk it there. Within the boundary you can use public transport. The few cars allowed are utilitarian, made in the town and run on batteries like milk floats (via <a href=\"https://botsin.space/@kottke\">@Kottke</a>). \n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/R2oD1ZHNMFE\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n</p>\n",
+				"content_text": "Zermatt, Switzerland [does not allow private vehicles](https://www.youtube.com/watch?v=R2oD1ZHNMFE). You can catch the train in from the next town or walk it there. Within the boundary you can use public transport. The few cars allowed are utilitarian, made in the town and run on batteries like milk floats (via [@Kottke](https://botsin.space/@kottke)). {{< youtube R2oD1ZHNMFE >}}\n",
+				"date_published": "2023-08-16T15:33:59+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/16/zermatt-switzerland-does.html",
+				"tags": ["Transport","Places"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/16/theres-several-programmes.html",
+				
+				"content_html": "<p>There’s several programmes celebrating 50 years of hip-hop. However, you’ll do well to find a more engrossing video than <a href=\"https://www.youtube.com/watch?v=hIGNaDk9eIA\">this one</a>. The samples for the biggest cuts of each year visualised (via <a href=\"https://botsin.space/@kottke\">@Kottke</a>). \n<div style=\"position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;\">\n  <iframe src=\"https://www.youtube.com/embed/hIGNaDk9eIA\" style=\"position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;\" allowfullscreen title=\"YouTube Video\"></iframe>\n</div>\n</p>\n",
+				"content_text": "There’s several programmes celebrating 50 years of hip-hop. However, you’ll do well to find a more engrossing video than [this one](https://www.youtube.com/watch?v=hIGNaDk9eIA). The samples for the biggest cuts of each year visualised (via [@Kottke](https://botsin.space/@kottke)). {{< youtube hIGNaDk9eIA >}}\n",
+				"date_published": "2023-08-16T15:12:26+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/16/theres-several-programmes.html",
+				"tags": ["Music","Samples"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/15/elliot-jay-stocks.html",
+				
+				"content_html": "<p>Elliot Jay Stocks’s <a href=\"https://elliotjaystocks.com/blog/a-newsletter-manifesto\">newsletter manifesto</a> is a sensible approach to designing emails. e.g. ‘put an “unsubscribe” link at the very top of each issue’—I&rsquo;d add a ‘read on web’ link there too—and ‘easy on the upsell’.</p>\n",
+				"content_text": "Elliot Jay Stocks’s [newsletter manifesto](https://elliotjaystocks.com/blog/a-newsletter-manifesto) is a sensible approach to designing emails. e.g. ‘put an “unsubscribe” link at the very top of each issue’—I'd add a ‘read on web’ link there too—and ‘easy on the upsell’.\n \n",
+				"date_published": "2023-08-15T09:56:16+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/15/elliot-jay-stocks.html",
+				"tags": ["Bookmark","Newsletters"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/14/im-not-going.html",
+				
+				"content_html": "<p>I’m not going on <del>Twitter</del> as much possibly because the X logo looks similar at a glance to Threads’.</p>\n",
+				"content_text": "I’m not going on ~~Twitter~~ as much possibly because the X logo looks similar at a glance to Threads’.\n",
+				"date_published": "2023-08-14T21:33:30+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/14/im-not-going.html",
+				"tags": ["Social Media"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/14/open-threads-thumb.html",
+				
+				"content_html": "<p>Open Threads. Thumb scroll. Another scroll. Close Threads.</p>\n",
+				"content_text": "Open Threads. Thumb scroll. Another scroll. Close Threads.\n",
+				"date_published": "2023-08-14T21:29:35+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/14/open-threads-thumb.html",
+				"tags": ["Social Media"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/14/looking-for-a.html",
+				
+				"content_html": "<p>Looking for a mnemonic for hyperlinks in Markdown as I keep getting the order wrong. <code>[square peg](round hole)</code> by <a href=\"https://twitter.com/codeinthehole/status/656917944199454722?lang=en\">David Winterbottom</a> is a good start but it doesn’t indicate within which the title and the URL go. What about <code>[square cuffs](round cufflinks)</code>?</p>\n",
+				"content_text": "Looking for a mnemonic for hyperlinks in Markdown as I keep getting the order wrong. `[square peg](round hole)` by [David Winterbottom](https://twitter.com/codeinthehole/status/656917944199454722?lang=en) is a good start but it doesn’t indicate within which the title and the URL go. What about `[square cuffs](round cufflinks)`?\n",
+				"date_published": "2023-08-14T14:51:46+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/14/looking-for-a.html",
+				"tags": ["Markdown"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/14/w-david-marx.html",
+				"title": "KSI, Mr Beast; on the cover of an ice cold Feast",
+				"content_html": "<p>W. David Marx <a href=\"https://culture.ghost.io/why-havent-internet-creators-become-superstars\">asks</a>: ‘In the mid-1970s, the Sex Pistols only took two years to move up from squalid London squats to the top of the British pop charts. Why hasn&rsquo;t a decade been enough time for DIY online video creators to turn their view counts into mainstream stardom?’</p>\n<p>Marx posits a number of conclusions as to why few if any social media sensations can be called mainstream celebrities. I&rsquo;m not entirely sold on them, but what he says here rings true and remains a conundrum:</p>\n<blockquote>\n<p>We’re now at least 15 years into the dominance of online video within youth culture. In the early 2010s, surveys started to find that teenagers were much more interested in YouTube creators than legacy media stars. At the time, it seemed plausible that youth would carry these preferences into their 20s and elevate their favorite creators. That didn’t happen.</p>\n</blockquote>\n<p>The acid test: could the names of social media’s most watched replace those in Madonna’s ‘Vogue’ and echo through the decades?</p>\n",
+				"content_text": "W. David Marx [asks](https://culture.ghost.io/why-havent-internet-creators-become-superstars): ‘In the mid-1970s, the Sex Pistols only took two years to move up from squalid London squats to the top of the British pop charts. Why hasn't a decade been enough time for DIY online video creators to turn their view counts into mainstream stardom?’ \n\nMarx posits a number of conclusions as to why few if any social media sensations can be called mainstream celebrities. I'm not entirely sold on them, but what he says here rings true and remains a conundrum:\n\n> We’re now at least 15 years into the dominance of online video within youth culture. In the early 2010s, surveys started to find that teenagers were much more interested in YouTube creators than legacy media stars. At the time, it seemed plausible that youth would carry these preferences into their 20s and elevate their favorite creators. That didn’t happen.\n\nThe acid test: could the names of social media’s most watched replace those in Madonna’s ‘Vogue’ and echo through the decades?\n",
+				"date_published": "2023-08-14T14:11:31+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/14/w-david-marx.html",
+				"tags": ["Bookmark","Television","Social Media"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/14/sounds-of-space.html",
+				"title": "Sounds of Space",
+				"content_html": "<p>Hear the ‘music of the Universe’ at <a href=\"https://students.tools/sounds-of-space\">Sounds of Space</a>. Mercury is my favourite, which sounds like the aftermath of a gruesome murder in an 80s video nasty, or if you prefer, the beginning of a Jeff Mills-type banger. Jupiter sounds like a lovely, peaceful stroll in a park, which is about as far removed as the reality of Jupiter.</p>\n",
+				"content_text": "Hear the ‘music of the Universe’ at [Sounds of Space](https://students.tools/sounds-of-space). Mercury is my favourite, which sounds like the aftermath of a gruesome murder in an 80s video nasty, or if you prefer, the beginning of a Jeff Mills-type banger. Jupiter sounds like a lovely, peaceful stroll in a park, which is about as far removed as the reality of Jupiter.\n",
+				"date_published": "2023-08-14T12:19:46+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/14/sounds-of-space.html",
+				"tags": ["Bookmark","Outer Space"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/14/oppenheimer-the-movie.html",
+				"title": "Oppenheimer the movie",
+				"content_html": "<p>I end to agree with <a href=\"https://craigmod.com/roden/082\">Craig Mod</a> and <a href=\"https://www.subtraction.com/2023/08/13/movies-watched-july-2023\">Khoi</a> on <em>Oppenheimer</em>. I thought it tried to cram too many characters in early doors. Keeping tabs on all the names was an effort. I also don’t think the <em>A Few Good Men</em> style grillings added much to the film. If anything it dragged it out (to 3 hours, plus the 30 minutes of adverts you have to sit through). While it was a valiant effort, I don’t think I could recommend <em>Oppenheimer</em> to everyone.</p>\n",
+				"content_text": " I end to agree with [Craig Mod](https://craigmod.com/roden/082) and [Khoi](https://www.subtraction.com/2023/08/13/movies-watched-july-2023) on *Oppenheimer*. I thought it tried to cram too many characters in early doors. Keeping tabs on all the names was an effort. I also don’t think the *A Few Good Men* style grillings added much to the film. If anything it dragged it out (to 3 hours, plus the 30 minutes of adverts you have to sit through). While it was a valiant effort, I don’t think I could recommend *Oppenheimer* to everyone.\n",
+				"date_published": "2023-08-14T10:38:12+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/14/oppenheimer-the-movie.html",
+				"tags": ["Films"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/13/watched-the-take.html",
+				
+				"content_html": "<p>Watched The Take, action film set in France starting Idris Elba and Richard Madden. Not bad.</p>\n",
+				"content_text": "Watched The Take, action film set in France starting Idris Elba and Richard Madden. Not bad.\n",
+				"date_published": "2023-08-13T22:33:32+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/13/watched-the-take.html",
+				"tags": ["Films"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/13/earlier-i-was.html",
+				
+				"content_html": "<p>Earlier I was on Ebay placing a new listing. It’s one of those things you just want done, so having AI suggest a description based on the item’s particulars is a promising and valid use case. So I clicked OK. The result read like something out of a J. Peterman catalogue. Pass. Needs more work.</p>\n",
+				"content_text": "Earlier I was on Ebay placing a new listing. It’s one of those things you just want done, so having AI suggest a description based on the item’s particulars is a promising and valid use case. So I clicked OK. The result read like something out of a J. Peterman catalogue. Pass. Needs more work.\n",
+				"date_published": "2023-08-13T19:48:08+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/13/earlier-i-was.html",
+				"tags": ["AI"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/12/father-and-son.html",
+				"title": "Father and son",
+				"content_html": "<p>There’s been some chatter on social regarding the sub 60,000 crowd at Wembley for the Challenge Cup final between Leigh and Hull KR. I thought they did alright to get circa. 60,000. I’m not sure any combination of teams would draw more than 75,000 in the current climate.</p>\n<p>Congrats to Leigh in their first Challenge Cup victory in 50-odd years. Regardless of how you feel about them, this touching scene where coach and star player—father and son—embrace after the final hooter is gold.</p>\n<p><img src=\"https://notes.gazshaw.co.uk/uploads/2023/adrian-and-lachlan-lam.png\" alt=\"\"></p>\n<p>Bar Ivan and Nathan Cleary at Penrith in the last couple of NRL Grand Finals, any more notable father and son victories?</p>\n",
+				"content_text": "There’s been some chatter on social regarding the sub 60,000 crowd at Wembley for the Challenge Cup final between Leigh and Hull KR. I thought they did alright to get circa. 60,000. I’m not sure any combination of teams would draw more than 75,000 in the current climate. \n\nCongrats to Leigh in their first Challenge Cup victory in 50-odd years. Regardless of how you feel about them, this touching scene where coach and star player—father and son—embrace after the final hooter is gold. \n\n![](https://notes.gazshaw.co.uk/uploads/2023/adrian-and-lachlan-lam.png)\n\nBar Ivan and Nathan Cleary at Penrith in the last couple of NRL Grand Finals, any more notable father and son victories?\n\n\n",
+				"date_published": "2023-08-12T18:00:00+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/12/father-and-son.html",
+				"tags": ["Social Media","Rugby League"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/08/08/imagine-that-new.html",
+				"title": "Imagine That! \u0026 New Brighton – 8.8.2023",
+				"content_html": "<p>We decided to cram the early part of the week with day trips before Joe’s Achilles operation on Thursday. Merseyside was the destination starting with <a href=\"https://imaginethat.org.uk\" title=\"Imagine That!\">Imagine That!</a>, a kind of mix between the best bits of <a href=\"https://www.thelittlelancashirevillage.co.uk\" title=\"The Little Lancashire Village\">The Little Lancashire Village</a> and <a href=\"https://www.eureka.org.uk\" title=\"Eureka!\">Eureka!</a>. Four zones with 30–40ish minutes in each zone. Anywhere that serves up free samples of ice cream cooled with dry ice is well worth a visit.</p>\n<p><img src=\"https://notes.gazshaw.co.uk/uploads/2023/imagine-that-1.jpg\" alt=\"\"></p>\n<p><img src=\"https://notes.gazshaw.co.uk/uploads/2023/imagine-that-2.jpg\" alt=\"\"></p>\n<p>Then, having previously mentioned my work visit to New Brighton, we took another visit, but with much better weather this time around. A small beach, another ice cream, a walk down the promenade and staying for our tea. We enjoyed it.</p>\n<p><img src=\"https://notes.gazshaw.co.uk/uploads/2023/new-brighton-lighthouse.jpg\" alt=\"\"></p>\n<p><img src=\"https://notes.gazshaw.co.uk/uploads/2023/new-brighton.jpg\" alt=\"\"></p>\n<p><img src=\"https://notes.gazshaw.co.uk/uploads/2023/new-brighton-pigeon.jpg\" alt=\"\"></p>\n<p><img src=\"https://notes.gazshaw.co.uk/uploads/2023/new-brighton-benches.jpg\" alt=\"\"></p>\n<p><img src=\"https://notes.gazshaw.co.uk/uploads/2023/new-brighton-arcade.jpg\" alt=\"\"></p>\n<p><img src=\"https://notes.gazshaw.co.uk/uploads/2023/new-brighton-huts.jpg\" alt=\"\"></p>\n<p>I peeled away for 20 minutes or so to take some photos of the street art which adorns several dwellings around the high street.</p>\n<p><img src=\"https://notes.gazshaw.co.uk/uploads/2023/new-brighton-street-art-1.jpg\" alt=\"\"></p>\n<p><img src=\"https://notes.gazshaw.co.uk/uploads/2023/new-brighton-street-art-2.jpg\" alt=\"\"></p>\n<p><img src=\"https://notes.gazshaw.co.uk/uploads/2023/new-brighton-street-art-3.jpg\" alt=\"\"></p>\n",
+				"content_text": "We decided to cram the early part of the week with day trips before Joe’s Achilles operation on Thursday. Merseyside was the destination starting with [Imagine That!](https://imaginethat.org.uk \"Imagine That!\"), a kind of mix between the best bits of [The Little Lancashire Village](https://www.thelittlelancashirevillage.co.uk \"The Little Lancashire Village\") and [Eureka!](https://www.eureka.org.uk \"Eureka!\"). Four zones with 30–40ish minutes in each zone. Anywhere that serves up free samples of ice cream cooled with dry ice is well worth a visit.\n\n![](https://notes.gazshaw.co.uk/uploads/2023/imagine-that-1.jpg)\n\n![](https://notes.gazshaw.co.uk/uploads/2023/imagine-that-2.jpg)\n\nThen, having previously mentioned my work visit to New Brighton, we took another visit, but with much better weather this time around. A small beach, another ice cream, a walk down the promenade and staying for our tea. We enjoyed it. \n\n![](https://notes.gazshaw.co.uk/uploads/2023/new-brighton-lighthouse.jpg)\n\n![](https://notes.gazshaw.co.uk/uploads/2023/new-brighton.jpg)\n\n![](https://notes.gazshaw.co.uk/uploads/2023/new-brighton-pigeon.jpg)\n\n![](https://notes.gazshaw.co.uk/uploads/2023/new-brighton-benches.jpg)\n\n![](https://notes.gazshaw.co.uk/uploads/2023/new-brighton-arcade.jpg)\n\n![](https://notes.gazshaw.co.uk/uploads/2023/new-brighton-huts.jpg)\n\nI peeled away for 20 minutes or so to take some photos of the street art which adorns several dwellings around the high street.\n\n![](https://notes.gazshaw.co.uk/uploads/2023/new-brighton-street-art-1.jpg)\n\n![](https://notes.gazshaw.co.uk/uploads/2023/new-brighton-street-art-2.jpg)\n\n![](https://notes.gazshaw.co.uk/uploads/2023/new-brighton-street-art-3.jpg)\n\n\n",
+				"date_published": "2023-08-08T20:18:14+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/08/08/imagine-that-new.html",
+				"tags": ["Day Trips","Places"]
+			}
 	]
 }
