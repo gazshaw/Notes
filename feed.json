@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://gazshaw.micro.blog/2023/09/29/off-to-work.html",
+				
+				"content_html": "<p>Off to work.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Off to work.\n\n<img src=\"uploads/2023/fb4f76d9a6.jpg\" width=\"348\" height=\"600\" alt=\"Looking at a sign for Swinton (Manchester) railway station from a train through closing doors.\">\n",
+				"date_published": "2023-09-29T09:23:54+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/09/29/off-to-work.html"
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/09/21/pigeons-are-still.html",
+				
+				"content_html": "<p><a href=\"https://www.jeffgeerling.com/blog/2023/pigeon-still-faster-internet\">Pigeons are still faster than the internet</a>.</p>\n<blockquote>\n<p>The idea is simple: strap as much physical storage media [3TB] on a bird as you possibly can… Using my new Pigeon Data Transfer Equation, I can estimate a pigeon would win under its own power out to about 500 miles (800 km).</p>\n</blockquote>\n<p>However,</p>\n<blockquote>\n<p>The next logical step is IPoAC (IP over Avian Carriers). This communication protocol would provide more robust data transfer guarantees, though there are some potential issues. Only one serious implementation has taken flight, and that was back in 2001, in Norway: ‘…it turned out that things had been so busy at the other end that they forgot to shut the pigeon cage, and the remaining two pigeons escaped without an IP packet. There was only six return pigeons, thus we got four ping replys, with ping times varying from 3211 to 6389 seconds.’</p>\n<p>55% packet loss isn&rsquo;t all that great.</p>\n</blockquote>\n",
+				"content_text": "[Pigeons are still faster than the internet](https://www.jeffgeerling.com/blog/2023/pigeon-still-faster-internet). \r\n\r\n> The idea is simple: strap as much physical storage media [3TB\\] on a bird as you possibly can… Using my new Pigeon Data Transfer Equation, I can estimate a pigeon would win under its own power out to about 500 miles (800 km).\r\n\r\nHowever,\r\n\r\n> The next logical step is IPoAC (IP over Avian Carriers). This communication protocol would provide more robust data transfer guarantees, though there are some potential issues. Only one serious implementation has taken flight, and that was back in 2001, in Norway: ‘…it turned out that things had been so busy at the other end that they forgot to shut the pigeon cage, and the remaining two pigeons escaped without an IP packet. There was only six return pigeons, thus we got four ping replys, with ping times varying from 3211 to 6389 seconds.’\r\n> \r\n>55% packet loss isn't all that great.\n",
+				"date_published": "2023-09-21T14:30:24+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/09/21/pigeons-are-still.html",
+				"tags": ["Transport","History","Web"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/09/18/weather-took-a.html",
+				
+				"content_html": "<p>Weather took a turn for the worse today. BUT, a downpour produced the brightest double rainbow I’ve ever seen, and from my back garden.</p>\n<p><img src=\"https://notes.gazshaw.co.uk/uploads/2023/95723e20-cc7f-40a7-b75f-8a25429536ee.jpeg\" alt=\"\"></p>\n",
+				"content_text": "Weather took a turn for the worse today. BUT, a downpour produced the brightest double rainbow I’ve ever seen, and from my back garden.\n\n![](https://notes.gazshaw.co.uk/uploads/2023/95723e20-cc7f-40a7-b75f-8a25429536ee.jpeg)\n\n\n",
+				"date_published": "2023-09-18T19:00:00+01:00",
+				"url": "https://notes.gazshaw.co.uk/2023/09/18/weather-took-a.html",
+				"tags": ["Diary","Salford"]
+			},
+			{
 				"id": "http://gazshaw.micro.blog/2023/09/17/google-stadia-controller.html",
 				
 				"content_html": "<p>Google Stadia controller, converted to bluetooth mode, does not work with Apple’s tvOS for Arcade games. Tested.</p>\n",
