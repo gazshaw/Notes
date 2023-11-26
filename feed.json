@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gazshaw.micro.blog/2023/11/26/oof-that-goal.html",
+				
+				"content_html": "<p>Oof, that goal from Garnacho against Everton. Shades of Sparky and Rooney. Superb.</p>\n",
+				"content_text": "Oof, that goal from Garnacho against Everton. Shades of Sparky and Rooney. Superb.\n",
+				"date_published": "2023-11-26T16:36:50+00:00",
+				"url": "https://notes.gazshaw.co.uk/2023/11/26/oof-that-goal.html",
+				"tags": ["Football"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/11/21/barrows-return-from.html",
+				"title": "Barrow’s return from Wembley",
+				"content_html": "<p>This photo from the <a href=\"https://www.sankeyphotoarchive.uk\">Sankey Archive</a> is of the Barrow RLFC team returning home from Wembley following defeat to Salford in the 1938 Rugby League Challenge Final. It was a close game but the vast majority of my knowledge of the encounter is from victor’s point of view, so it’s interesting to see the great turnout that met the Barrow club regardless of defeat.</p>\n<!-- raw HTML omitted -->\n<p><a href=\"https://www.sankeyphotoarchive.uk/collection/view/?id=10574\">_TP189, BDB 86/1/8339</a> Sankey Family Photographic Archive © Cumbria Archives (<a href=\"https://creativecommons.org/licenses/by-nc/4.0/legalcode.en\">CC BY-NC 4.0</a>)_</p>\n<p>More about the Sankey Archive:</p>\n<blockquote>\n<p>Edward Sankey had a remarkable life. He was the son of a horse-keeper brought up next to a dockside rail yard who became one of the region&rsquo;s best-known photographers. Over 70 years, through which they witnessed massive industrial growth and two World Wars, Barrovian Edward and his sons, Raymond and Eric, dedicated their lives to capturing significant moments and everyday life in Barrow, Cumbria and the wider North West.</p>\n</blockquote>\n",
+				"content_text": "This photo from the [Sankey Archive](https://www.sankeyphotoarchive.uk) is of the Barrow RLFC team returning home from Wembley following defeat to Salford in the 1938 Rugby League Challenge Final. It was a close game but the vast majority of my knowledge of the encounter is from victor’s point of view, so it’s interesting to see the great turnout that met the Barrow club regardless of defeat. \n\n<img src=\"uploads/2023/barrow-rlfc-1938.jpg\" width=\"600\" height=\"451\" alt=\"Looking south-east down Duke Street at the front of the Town Hall, at Cavendish Square. Crowds being managed by police. Two smart coaches are parked with four black cars behind. Five double-decker buses in background. Sign on Hotel Majestic.\">\n\n[_TP189, BDB 86/1/8339](https://www.sankeyphotoarchive.uk/collection/view/?id=10574) Sankey Family Photographic Archive © Cumbria Archives ([CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode.en))_\n\nMore about the Sankey Archive:\n\n>Edward Sankey had a remarkable life. He was the son of a horse-keeper brought up next to a dockside rail yard who became one of the region's best-known photographers. Over 70 years, through which they witnessed massive industrial growth and two World Wars, Barrovian Edward and his sons, Raymond and Eric, dedicated their lives to capturing significant moments and everyday life in Barrow, Cumbria and the wider North West.\n\n\n\n\n\n",
+				"date_published": "2023-11-21T13:52:00+00:00",
+				"url": "https://notes.gazshaw.co.uk/2023/11/21/barrows-return-from.html",
+				"tags": ["Rugby League","Transport","Salford"]
+			},
+			{
+				"id": "http://gazshaw.micro.blog/2023/11/20/dd.html",
+				"title": "DD",
+				"content_html": "<p>Rachel Hendry has wrote a cracking article about the <a href=\"https://www.pelliclemag.com/home/2023/10/30/it-works-wonders-the-legacy-of-double-diamond-burton-pale-ale\">legacy of Double Diamond</a> beer for Pellicle. As with the (presumably) younger people quoted in the article, I have a faux nostalgia for Double Diamond. I never drank a drop of it, but I think it’s likely to do with the branded lights that would be displayed in pubs and pubs on TV (I can’t be sure but I&rsquo;m thinking on shows such as <em>Only Fools…</em> and <em>Bottom</em>).</p>\n<p>It appears to be a beer of style, or rather marketing positioning and popular advertising campaigns, over substance as many respondents who had drunk it recall the beer, particularly in its keg form, to be gassy muck. And it was its keg form that CAMRA also took aim at.</p>\n<!-- raw HTML omitted -->\n<p><em>Image (c) <a href=\"https://untappd.com/user/NevInBlack\">Nev in Black</a>.</em></p>\n",
+				"content_text": "Rachel Hendry has wrote a cracking article about the [legacy of Double Diamond](https://www.pelliclemag.com/home/2023/10/30/it-works-wonders-the-legacy-of-double-diamond-burton-pale-ale) beer for Pellicle. As with the (presumably) younger people quoted in the article, I have a faux nostalgia for Double Diamond. I never drank a drop of it, but I think it’s likely to do with the branded lights that would be displayed in pubs and pubs on TV (I can’t be sure but I'm thinking on shows such as _Only Fools…_ and _Bottom_).\n\nIt appears to be a beer of style, or rather marketing positioning and popular advertising campaigns, over substance as many respondents who had drunk it recall the beer, particularly in its keg form, to be gassy muck. And it was its keg form that CAMRA also took aim at. \n\n<img src=\"uploads/2023/double-diamond.jpg\" width=\"600\" height=\"600\" alt=\"\">\n\n_Image (c) [Nev in Black](https://untappd.com/user/NevInBlack)._\n",
+				"date_published": "2023-11-20T18:00:00+00:00",
+				"url": "https://notes.gazshaw.co.uk/2023/11/20/dd.html",
+				"tags": ["Design","History","Food and Drink","Typography","Pubs"]
+			},
+			{
 				"id": "http://gazshaw.micro.blog/2023/11/19/the-largest-scale.html",
 				"title": "The largest scale model of the solar system",
 				"content_html": "<p>Talking of <a href=\"https://notes.gazshaw.co.uk/2023/11/18/manton-on-his.html\">spherical concert venues</a>, the Avicii Arena in Stockholm also acts as the sun (Sol) in the largest permanent scale model of the solar system. The <a href=\"https://en.m.wikipedia.org/wiki/Sweden_Solar_System\">Sweden Solar System</a> is made up of physical landmarks that represent the planets, comets and other features spanning the length of the country.</p>\n",
@@ -17,12 +44,11 @@
 			},
 			{
 				"id": "http://gazshaw.micro.blog/2023/11/18/manton-on-his.html",
-				
-				"content_html": "<p><a href=\"https://micro.blog/manton\">Manton</a> on <a href=\"https://www.manton.org/2023/11/06/a-longer-post.html\">his visit to the Sphere</a> in Las Vegas to watch U2. The venue looks incredible and I look forward to visiting one. The <a href=\"https://www.independent.co.uk/news/uk/home-news/stratford-london-las-vegas-msg-sphere-b2423759.html\">plans to build a similar venue in London are controversial</a>, however. Stratford residents are not impressed, with <a href=\"https://stopmsgspherelondon.com\">Stop MSG Sphere</a> mounting a defence.</p>\n",
-				"content_text": "[Manton](https://micro.blog/manton) on [his visit to the Sphere](https://www.manton.org/2023/11/06/a-longer-post.html) in Las Vegas to watch U2. The venue looks incredible and I look forward to visiting one. The [plans to build a similar venue in London are controversial](https://www.independent.co.uk/news/uk/home-news/stratford-london-las-vegas-msg-sphere-b2423759.html), however. Stratford residents are not impressed, with [Stop MSG Sphere](https://stopmsgspherelondon.com) mounting a defence.\n",
+				"title": "MSG LDN",
+				"content_html": "<p><a href=\"https://micro.blog/manton\">Manton</a> on <a href=\"https://www.manton.org/2023/11/06/a-longer-post.html\">his visit to the Sphere</a> in Las Vegas to watch U2. The venue looks incredible and I look forward to visiting one. The <a href=\"https://www.independent.co.uk/news/uk/home-news/stratford-london-las-vegas-msg-sphere-b2423759.html\">plans to build a similar venue in London are controversial</a>, however. Stratford residents are not impressed, with <a href=\"https://stopmsgspherelondon.com\">Stop MSG Sphere</a> mounting a defence.</p>\n<p><strong>Update (20 November 2023)</strong></p>\n<p>The planning application has been rejected.</p>\n",
+				"content_text": "[Manton](https://micro.blog/manton) on [his visit to the Sphere](https://www.manton.org/2023/11/06/a-longer-post.html) in Las Vegas to watch U2. The venue looks incredible and I look forward to visiting one. The [plans to build a similar venue in London are controversial](https://www.independent.co.uk/news/uk/home-news/stratford-london-las-vegas-msg-sphere-b2423759.html), however. Stratford residents are not impressed, with [Stop MSG Sphere](https://stopmsgspherelondon.com) mounting a defence.\n\n**Update (20 November 2023)**\n\nThe planning application has been rejected.\n",
 				"date_published": "2023-11-18T10:26:00+00:00",
-				"url": "https://notes.gazshaw.co.uk/2023/11/18/manton-on-his.html",
-				"tags": ["Places","Music"]
+				"url": "https://notes.gazshaw.co.uk/2023/11/18/manton-on-his.html"
 			},
 			{
 				"id": "http://gazshaw.micro.blog/2023/11/18/tis-the-season.html",
